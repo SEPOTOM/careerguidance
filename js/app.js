@@ -1380,7 +1380,7 @@
                   case e[22]:
                     return (
                       3 * t[9].value +
-                      3 * t[11].value +
+                      3 * t[10].value +
                       +t[15].value +
                       +t[16].value +
                       2 * t[19].value
@@ -1388,7 +1388,7 @@
                   case e[23]:
                     return (
                       +t[0].value +
-                      2 * t[9].value +
+                      2 * t[8].value +
                       2 * t[12].value +
                       +t[15].value +
                       +t[17].value +

@@ -272,7 +272,7 @@ body.popup-show::after {
   visibility: hidden;
   transform: scale(0);
   transition: transform 0.3s ease 0s;
-  background-color: #eee;
+  background-color: #b3b9be;
   padding: 20px;
   width: 100%;
   max-width: 900px;
@@ -433,4 +433,7 @@ body {
   height: 1px;
   background-color: #333;
   min-width: 10px;
+}
+.popup__close {
+  border: 2px solid #333;
 }
